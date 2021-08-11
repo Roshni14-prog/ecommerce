@@ -1,0 +1,30 @@
+.products{
+    
+    grid-template-columns: auto auto auto;
+    
+  }
+  .products img{
+    width: 100%;
+    
+  }
+  
+  .products2 img{
+    width:96px;
+    height : 65px;
+  }
+  .product{
+    padding: 30px;
+  }
+
+  Button{
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    
+  }
+  header{
+    
+    height:80px;
+    padding-top: 10px;;
+  }
+  
